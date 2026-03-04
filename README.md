@@ -1,16 +1,23 @@
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
-    <meta charset="utf-8" />
-    <meta name=" author" content="Tafadzwa Charles Kachana" />
+    <meta charset="UTF-8" />
+    <meta name="author" content="Tafadzwa Charles Kachana" />
     <title>Welcome to Africa</title>
-    <link rel="icon" href="africa.JPG" type="image/x-icon" />
-    <meta name="description" content="Discover Africa's wildlife, cultures, landscapes, and travel destinations. Explore safaris, beaches, deserts, and vibrant cities across Africa." />
-    <meta name="keywords" content="Victoria Falls, Mount Kilimanjaro, Sahara Desert, Serengeti ational Park, Table Mountain" />
+
+    <link rel="icon"
+          href="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Africa_%28orthographic_projection%29.svg/250px-Africa_%28orthographic_projection%29.svg.png"
+          type="image/png" />
+
+    <meta name="description"
+          content="Discover Africa's wildlife, cultures, landscapes, and travel destinations. Explore safaris, beaches, deserts, and vibrant cities across Africa." />
+
+    <meta name="keywords"
+          content="Victoria Falls, Mount Kilimanjaro, Sahara Desert, Serengeti National Park, Table Mountain, African safari, African travel, wildlife tourism" />
 
 </head>
 <body>
-    <h1>Exlore Africa With Freedom</h1>
-    <h2>Walk The Savanah Like Wild Beast</h2>
+    <h1>Explore Africa With Freedom</h1>
+    <h2>Walk The Savanah Like A Wild Beast</h2>
 
     <img src="https://kimi-web-img.moonshot.cn/img/static01.nyt.com/6bb68d211b93e608244fc80654211e55f0f8e9a8.png" />
 
@@ -20,6 +27,7 @@
         Africa offers unforgettable adventures. It is home to majestic animals, vibrant traditions,
         and welcoming communities that make every journey a unique and powerful experience.
     </p>
+
 
     <p>
         Imagine yourself standing before the stunning pyramids of Egypt, feeling the history beneath your feet.
@@ -36,4 +44,3 @@
     <hr />
 
 </body>
-</html>
